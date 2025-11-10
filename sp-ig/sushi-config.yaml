@@ -6,7 +6,7 @@
 id: sp.fhir.no.hackathon
 canonical: http://gnist.sykehuspartner.no/fhir/hackathon
 name: Gnist
-title: "Gnist"
+title: Gnist
 description: SP Firehackaton 10.11.25
 status: draft
 version: 0.1.0
