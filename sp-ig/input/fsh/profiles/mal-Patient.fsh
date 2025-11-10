@@ -1,6 +1,6 @@
 Profile:     SP IG Pasient
 Id:          sp-ig-pasient
-Parent:      NoBasisPatient
+Parent:      no-basis-patient
 Title:       "Pasient"
 Description: "Informasjon om pasienten, fra fødejournal"
 * ^status = #draft
